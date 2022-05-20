@@ -11,4 +11,4 @@ auth_token= token
 for `auth_token` use token for e-queo.online (from Authorization header)<br>
 **note:** token lives 3600 s from being refreshed<br>
 for `module_id` use module id for your course from the address bar 
-![](https://i.imgur.com/Vo6e81N.png) 
+![](https://i.imgur.com/jvbTPlW.png) 
